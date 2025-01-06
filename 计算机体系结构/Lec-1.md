@@ -1,4 +1,4 @@
-## 计算机基本组成
+# Lec-1-计算机基本组成
 
 [TOC]
 
@@ -23,19 +23,33 @@
 
 #### 冯·诺依曼计算机（Von Neumann Machine）
 
+
+
 1. **存储结构**：指令和数据共享同一存储器。
+
 2. **总线设计**：指令和数据共享同一总线。这意味着在任何时刻，CPU只能读取指令或数据，不能同时进行两者的访问。
+
 3. **执行顺序**：指令通常按顺序存放和执行，但在特定条件下可以根据运算结果或设定的条件改变执行顺序。
+
 4. **灵活性**：由于程序和数据存储在同一内存中，程序可以动态地修改或存取数据。
+
 5. **硬件复杂性**：结构相对简单，易于实现和扩展。
+
 6. **应用场景**：广泛应用于通用计算机、PC、服务器等。
 
 7. **Storage Structure**: Instructions and data share the same memory.
+
 8. **Bus Design**: Instructions and data share the same bus. This means that at any given moment, the CPU can only read instructions or data, but not both simultaneously.
+
 9. **Execution Order**: Instructions are typically stored and executed in sequence, but under certain conditions, the execution order can be changed based on the results of computations or predefined conditions.
+
 10. **Flexibility**: Since programs and data are stored in the same memory, programs can dynamically modify or access data.
+
 11. **Hardware Complexity**: The structure is relatively simple, making it easy to implement and expand.
+
 12. **Application Scenarios**: Widely used in general-purpose computers, PCs, servers, etc.
+
+    
 
 #### 哈佛结构计算机的特点
 

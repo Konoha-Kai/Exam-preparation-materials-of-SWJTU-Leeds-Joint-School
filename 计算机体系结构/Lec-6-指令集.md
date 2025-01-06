@@ -1,4 +1,4 @@
-## Instruction Sets: Characteristics and Functions（指令集：特性和功能）
+# Lec-6-Instruction Sets: Characteristics and Functions（指令集：特性和功能）
 
 ### ISA是什么
 
