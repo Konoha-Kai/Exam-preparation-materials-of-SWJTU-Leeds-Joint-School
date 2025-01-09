@@ -304,11 +304,11 @@ System modeling has now come to mean representing a system using some kind of gr
 - Documenting an **existing system** --- Models should be an accurate but need **not** be  complete
 - Detailed system description  that can be used to **generate a system implementation** --- Models have to be both correct and complete
 
-### 九种UML图
+### 九种UML图？？？
 
 ![image-20250109162129082](.\assets\image-20250109162129082.png)
 
-
+？？？
 
 
 
@@ -316,8 +316,33 @@ System modeling has now come to mean representing a system using some kind of gr
 
 看课件，网络架构师是怎么工作的，职责是什么
 
-TOGAF
-The Open Group Architectural Framework
+TOGAF --- The Open Group Architectural Framework
+
+### 架构的组成
+
+ Architecture
+
+-  Layers
+- Components
+- Sub-Components
+-  Building block --- Interfaces
+
+### 基于组件的软件架构
+
+**个体组件** 是一个软件包、一个网络服务或一个模块，封装了一组相关功能（或数据）
+
+### Principles of Component Design（原则）
+
+- **purpose**（目的性）
+- be internally **cohesive** and provide **external** services via a  limited interface（紧密相关）
+- **Modularity**（模块化）一个系统被分解为一组内聚且松散耦合的模块的特性
+- **Encapsulation**（封装性）
+
+### Three Tier Software Architecture Presentation, Application, Data (PAD)
+
+### The Model-View-Controller (MVC)  pattern模型-视图-控制器模型
+
+![image-20250109174324685](.\assets\image-20250109174324685.png)
 
 # Lec-8-Systems Design
 
