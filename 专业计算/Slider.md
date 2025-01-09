@@ -346,9 +346,126 @@ TOGAF --- The Open Group Architectural Framework
 
 # Lec-8-Systems Design
 
+### Design and implementation（设计和部署）
+
+– Software design is a creative activity in which you identify software components and their relationships, based on a customer’s requirements.
+– Implementation is the process of realizing the design as a program.
+
+### Analysis and Design（分析和设计）
+
+Analysis ---- “Understanding the Problem”
+
+Design ---- “Understanding the Solution"
+
+### Build or buy（写一个程序还是买一个）
+
+买软件是常态
+
+The traditional model is to buy client server software packages and install them on  the organisation's own servers. 
+
+The emerging model is to rent software-as-a-service (SaaS) and run it on the  supplier’s cloud-based service.
+
+#### 买之前要考虑的
+
+- Purchase
+- Support cost 
+- Reliability 
+- Functionality
+- Standard
+- Specialist  
+- Time and cost of change project 
+- Funding
+
+**注意：Change the Organisation NOT the Software.**
+
 
 
 # Lec-9-Testing
 
+### DevOps
+
+软件开发（Dev）和信息技术运维（Ops）结合起来
+
+Aims to shorten the systems development life cycle
+and provide high quality, continuous delivery
+
+### Verification and Validation（验证和确认）
+
+### Verification
+
+The software should conform to its specification
+
+验证的目的是确保软件产品按照既定的规格和标准正确地实现
+
+### Validation
+
+The software should do what the user really requires
+
+确认是否达到预期功能
+
+### Program testing
+
+- VALIDATION Testing确认测试
+  - 证明软件满足其需求。
+- DEFECT Testing
+  - 发现软件行为不正确、不受欢迎或不符合其规范的情况。
+
+### Automated Unit Testing – JUnit
+Test Driven Development
+
+### Software inspections（软件检查）
+
+拿眼看代码对错
+
+### Software development testing
+
+1. Unit testing（单元测试）单个功能或模块功能的测试
+2. Component testing（组件测试）其中几个单独的单元被集成以创建复合组件。组件测试应该集中于测试组件接口。
+3. System testing（系统测试）将系统中的部分或全部组件集成，并将系统作为一个整体进行测试。系统测试应该集中在测试组件交互。
 
 
+
+### 软件开发发过程
+
+![image-20250109195042841](.\assets\image-20250109195042841.png)
+
+### Automated Regression Testing(自动化回归测试)
+
+回归意味着重新测试应用程序中未更改的部分
+
+### Test-driven development
+
+est-driven development (TDD) is an approach to program development in which you inter-
+leave testing and code development. Tests are written before code and ‘passing’ the tests is
+the critical driver of development
+
+测试是在代码之前编写的，“通过”测试是开发的关键驱动力。您可以增量式地开发代码，沿着对增量进行测试
+
+### Changeover Method
+
+![image-20250109195537185](.\assets\image-20250109195537185.png)
+
+ABC是逐步推进
+
+123是试点
+
+### The Technical Support Desk（技术支持台） - a source of Change Requests
+通常位于公司的信息技术（IT）部门或客户服务部门，主要职责是解决用户在使用软件、硬件或其他技术产品时遇到的问题
+
+### Types of maintenance（维护的类型）
+
+- Fault repairs - 单纯的debug
+- Environmental adaptation - 在不同环境的适应
+- New or changed Functionality - 性功能的加入
+
+### Refactoring
+
+修改避免退化
+
+# 写在最后
+
+终于结束了，干了一天，精力自高中之后没有这么集中过，不求满分，只求95分
+
+但愿这些东西对你有帮助
+
+关系star
