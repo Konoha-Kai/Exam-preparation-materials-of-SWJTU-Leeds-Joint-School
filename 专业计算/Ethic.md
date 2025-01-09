@@ -117,6 +117,8 @@ Case Study: Therac-25
 
 #### 在工程领域
 
+technician's often blind devotion to his task, tech as Ethically Neutral
+
 Such distancing tends to diffuse responsibility, making it easier (practically and psychologically) to shirk accountability for the ultimate consequences of one’s work.
 
 这种疏远倾向于分散责任，使其更容易（实际上和心理上）逃避对一个人工作的后果的责任。
@@ -193,3 +195,27 @@ Discrimination causes recognitional injustice when it fails to treat
 everyone’s needs and wellbeing as being of equal importance.
 
 在回答不公正问题的时候从以上两个方面回答
+
+
+
+
+
+# Sum
+
+Lec2-Responsibility（如何归责）- 计算归责的困难 - 
+
+
+
+Lec3-挑战权威
+
+
+
+Lec4-监管的动机和缺点
+
+
+
+Lec5-黑客在财产-个人-同意性的威胁
+
+
+
+Lec6-Distributive Injustice-Recognitional Injustice
