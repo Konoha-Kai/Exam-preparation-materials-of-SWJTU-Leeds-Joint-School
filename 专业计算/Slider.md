@@ -308,9 +308,57 @@ System modeling has now come to mean representing a system using some kind of gr
 
 ![image-20250109162129082](.\assets\image-20250109162129082.png)
 
-？？？
 
 
+**Use case modeling：**
+
+![image-20250109211544591](.\assets\image-20250109211544591.png)
+
+
+
+**Class:**
+
+![image-20250109212954326](.\assets\image-20250109212954326.png)
+
+
+
+**Squence:**
+
+![image-20250109213349517](.\assets\image-20250109213349517.png)
+
+**Activivity:**框中是活动
+
+![image-20250109213709693](.\assets\image-20250109213709693.png)
+
+**State:**状态图框中是状态
+
+![image-20250109213904660](.\assets\image-20250109213904660.png)
+
+![image-20250109214124989](.\assets\image-20250109214124989.png)
+
+**Collaboration(协作图):**
+
+![image-20250109214541828](.\assets\image-20250109214541828.png)
+
+
+
+
+
+
+
+**Objective(对象图):**
+
+![image-20250109215500511](.\assets\image-20250109215500511.png)
+
+
+
+**Component Diagrams(组件图):**
+
+![image-20250109215832443](.\assets\image-20250109215833641.png)
+
+**Implementation Diagrams（部署图）**
+
+![image-20250109220453769](.\assets\image-20250109220453769.png)
 
 # Lec-7-Architecture(架构)
 
@@ -425,7 +473,7 @@ Test Driven Development
 
 
 
-### 软件开发发过程
+### 软件开发过程
 
 ![image-20250109195042841](.\assets\image-20250109195042841.png)
 
@@ -468,4 +516,4 @@ ABC是逐步推进
 
 但愿这些东西对你有帮助
 
-关系star
+感谢star
